@@ -23,16 +23,16 @@ Tenho 26 anos, sou formado como técnico em Informática pelo Senac São José d
 
 <img 
     align="left"
-    alt="c#"
-    title="c#"
+    alt="C#"
+    title="C#"
     width="30px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />
 
 <img 
     align="left"
-    alt="PYTHON"
-    title="PYTHON"
+    alt="Python"
+    title="Python"
     width="30px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" /> 
@@ -40,8 +40,8 @@ Tenho 26 anos, sou formado como técnico em Informática pelo Senac São José d
 
 <img 
     align="left"
-    alt="FLASK"
-    title="FLASK"
+    alt="Flask"
+    title="Flask"
     width="30px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
@@ -58,8 +58,8 @@ Tenho 26 anos, sou formado como técnico em Informática pelo Senac São José d
 
  <img 
     align="left"
-    alt="css"
-    title="css"
+    alt="CSS"
+    title="CSS"
     width="30px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
