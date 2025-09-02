@@ -1,13 +1,9 @@
-## 🤖 Hello World! Eu sou o Jonatas Santos
+# 🤖 Hello World!
 
-Tenho 26 anos, sou formado como técnico em Informática pelo Senac São José dos Campos e atualmente estou cursando o 4° semestre de Análise e Desenvolvimento de Sistemas (ADS) na UNIP, campus São José dos Campos.
+Sou o Jonatas Santos, tenho 26 anos, sou formado como técnico em Informática pelo Senac São José dos Campos e atualmente estou cursando o 4° semestre de Análise e Desenvolvimento de Sistemas (ADS) na UNIP, campus São José dos Campos. Estou em transição de carreira procurando estágio na área de desenvolvimento.
 
----
+Vamos construir algo juntos? 🚀
 
-**🧠 Principais conhecimentos:**
-
-- Metodologia ágil (Scrum)
-- 
 
 ## Lingaguens e teconologias:
 
@@ -74,8 +70,8 @@ Tenho 26 anos, sou formado como técnico em Informática pelo Senac São José d
           
 <br/>
 <br/>
-          
-### 📊 Estatísticas     
+
+## 📊 Estatísticas     
 
  <img 
     align="left"
