@@ -18,7 +18,7 @@ Tenho 26 anos, sou formado como técnico em Informática pelo Senac São José d
     title="C"
     width="30px"
     style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
           
 
 <img 
@@ -52,7 +52,7 @@ Tenho 26 anos, sou formado como técnico em Informática pelo Senac São José d
     alt="SQL Server"
     title="SQL Server"
     width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
                     
 
 <img 
